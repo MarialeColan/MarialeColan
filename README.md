@@ -1,2 +1,2 @@
 # CV
-My resume
+My website: https://marialecolan.github.io/CV/
