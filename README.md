@@ -16,5 +16,6 @@ I'm María Alejandra Colán Lamas, economics undergraduate at Pontificia Univers
 
 ### Let's get in touch
 LinkedIn: linkedin.com/in/maría-alejandra-colán-lamas-79242422a
+
 My website: https://marialecolan.github.io/MarialeColan/
 ###
