@@ -16,7 +16,6 @@ I'm María Alejandra Colán Lamas, economics undergraduate at Pontificia Univers
 - Machine Learning for macroeconomics
 
 ### Let's get in touch
-LinkedIn: linkedin.com/in/maría-alejandra-colán-lamas-79242422a/ </p>
-
+LinkedIn: https://www.linkedin.com/in/mar%C3%ADa-alejandra-col%C3%A1n-lamas-79242422a/ </p>
 My website: https://marialecolan.github.io/MarialeColan/
 ###
